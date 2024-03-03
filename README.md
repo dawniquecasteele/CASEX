@@ -3,7 +3,7 @@
 Version 1.0.0 - DEMO
 ----------------
 
-CASEX is an interactive narrative video game that allows players to learn about biological processes occuring within the human body. Players will be able to engage and actively participate in dynamic storytelling, and control how they learn about the topics. The game delves into the mystery, horror, and slight romance genre to entice players and provide them with a unique gameplay experience. 
+CASEX is an interactive narrative video game that allows players to learn about biological processes occuring within the human body. Players will be able to engage and actively participate in dynamic storytelling, and control how they learn about the topics. The game delves into the mystery, horror, and romance genres to entice players and provide them with a unique gameplay experience. 
 
 The initial demo of this game utilizes Python and is built through the RenPy game engine. However, further releases will utilize Unity and its corresponding programming language. Code or any assets present in the repository are confirmed for initial release. 
 
