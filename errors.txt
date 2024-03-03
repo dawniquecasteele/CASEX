@@ -2,9 +2,6 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 439: expected statement.
-    aupset dissolve
-                   ^
 
 Ren'Py Version: Ren'Py 8.1.3.23091805
 Mon Dec  4 21:00:25 2023
